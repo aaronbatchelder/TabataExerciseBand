@@ -31,8 +31,11 @@ Reference to the Metawear board SDK can be found at https://mbientlab.com/iosdoc
 I'd be happy to have contributors to project. There are some pretty glaring errors with the timer display and some basis timer functionality in general that I haven't had time to fix. Code refactoring is another area in need of improvement - I acknowledge this is a fairly messy project overall though just don't have the time to improve it.'I can be reached at @aaronbatcheldr on Twitter if you want to reach out.'
 
 Additionally some features that would make this more of a useful app would be:
+
     -Basic persistence for the workout history tableView so you can easily grab and track past workouts
+
     -Tutorial improvements
+
     -Ability to customize certain exercises for each interval with the app prompting the user to do it
 
 
