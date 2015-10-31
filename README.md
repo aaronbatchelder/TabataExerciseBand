@@ -16,8 +16,6 @@ Other applications can be a hands-off time tracker when cycling or running and a
 
 This has "out-of-the-box" functionality and should connect directly to your metawear board and allow you to set custom intervals as long as the software updates for the board haven't deprecated the code.'
 
-It's worth noting that the bridging-header.h file may give you some issues. In that case you'll have to manually input the folder path location of the file on your build under "Build Settings -> Obj-C Bridging Header"."
-
 NOTE: The metawear framework doesn't run on a simulator, it's not an error with the project. In order to run this project you need to build it on your device.'
 
 
