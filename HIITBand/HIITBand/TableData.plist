@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WorkoutHistory</key>
+	<array>
+		<string>8 sets, 30s, 15s</string>
+		<string>4 sets, 60s, 20s</string>
+		<string>12 sets, 20s, 5s</string>
+		<string>2 sets, 2m, 30s</string>
+		<string>8 sets, 45s, 15s</string>
+	</array>
+</dict>
+</plist>

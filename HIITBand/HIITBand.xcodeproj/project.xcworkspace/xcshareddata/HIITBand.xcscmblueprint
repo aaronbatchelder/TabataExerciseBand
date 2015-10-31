@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "53E6DFCCAB8D03A6A8B02ADFEAC8507054112754",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "53E6DFCCAB8D03A6A8B02ADFEAC8507054112754" : 0,
+    "D4667470FA0781B73FB4956414184C95920F557C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "296BDA45-EDF2-4AD1-959F-E43D49C8FB72",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "53E6DFCCAB8D03A6A8B02ADFEAC8507054112754" : "TabataExerciseBand\/",
+    "D4667470FA0781B73FB4956414184C95920F557C" : "iOSFiles"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HIITBand",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HIITBand\/HIITBand.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aaronbatchelder\/TabataExerciseBand.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53E6DFCCAB8D03A6A8B02ADFEAC8507054112754"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aaronbatchelder\/iOSFiles.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D4667470FA0781B73FB4956414184C95920F557C"
+    }
+  ]
+}
