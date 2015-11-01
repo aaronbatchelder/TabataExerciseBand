@@ -160,7 +160,7 @@
                                 <rect key="frame" x="89" y="210" width="61" height="64"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <animations/>
-                                <state key="normal" backgroundImage="pause.png">
+                                <state key="normal" backgroundImage="play">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
@@ -171,7 +171,7 @@
                                 <rect key="frame" x="16" y="208" width="58" height="68"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <animations/>
-                                <state key="normal" backgroundImage="play.png">
+                                <state key="normal" backgroundImage="play">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
@@ -401,7 +401,7 @@
                                 <rect key="frame" x="277" y="70" width="37" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <animations/>
-                                <state key="normal" backgroundImage="plus.png">
+                                <state key="normal" backgroundImage="plus">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
@@ -626,9 +626,8 @@ This type allows you to set an interval at which you want to be notified, and th
     <resources>
         <image name="about" width="30" height="30"/>
         <image name="history2" width="30" height="30"/>
-        <image name="pause.png" width="512" height="512"/>
-        <image name="play.png" width="512" height="512"/>
-        <image name="plus.png" width="128" height="128"/>
+        <image name="play" width="512" height="512"/>
+        <image name="plus" width="128" height="128"/>
         <image name="restart_filled.png" width="512" height="512"/>
         <image name="stop.png" width="512" height="512"/>
         <image name="stopwatch2.png" width="30" height="30"/>

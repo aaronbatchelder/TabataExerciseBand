@@ -7,28 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		021D9F531B4B31B5000353A9 /* plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 021D9F521B4B31B5000353A9 /* plus.png */; };
-		021D9F671B4C168E000353A9 /* xib image.png in Resources */ = {isa = PBXBuildFile; fileRef = 021D9F661B4C168E000353A9 /* xib image.png */; };
 		02455C4A1B3A35A700C4EE9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02455C491B3A35A700C4EE9A /* AppDelegate.swift */; };
 		02455C511B3A35A700C4EE9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02455C4F1B3A35A700C4EE9A /* Main.storyboard */; };
 		02455C531B3A35A700C4EE9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02455C521B3A35A700C4EE9A /* Images.xcassets */; };
 		02455C561B3A35A700C4EE9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 02455C541B3A35A700C4EE9A /* LaunchScreen.xib */; };
 		02455C621B3A35A700C4EE9A /* HIITBandTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02455C611B3A35A700C4EE9A /* HIITBandTests.swift */; };
-		0264EB6F1B3F4E0200972059 /* ButtonForModal.png in Resources */ = {isa = PBXBuildFile; fileRef = 0264EB6E1B3F4E0200972059 /* ButtonForModal.png */; };
-		02B559A71B44308400C86809 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559A31B44308400C86809 /* pause.png */; };
-		02B559A81B44308400C86809 /* restart_filled.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559A41B44308400C86809 /* restart_filled.png */; };
-		02B559A91B44308400C86809 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559A51B44308400C86809 /* play.png */; };
-		02B559AC1B4430CD00C86809 /* stop.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559AB1B4430CD00C86809 /* stop.png */; };
-		02B559AF1B44359A00C86809 /* timer.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559AD1B44359A00C86809 /* timer.png */; };
-		02B559B01B44359A00C86809 /* timer@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559AE1B44359A00C86809 /* timer@2x.png */; };
-		02B559BB1B443AF800C86809 /* stopwatch2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559B91B443AF800C86809 /* stopwatch2@2x.png */; };
-		02B559BC1B443AF800C86809 /* stopwatch2.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559BA1B443AF800C86809 /* stopwatch2.png */; };
-		02B559BE1B443BCF00C86809 /* history2.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559BD1B443BCF00C86809 /* history2.png */; };
-		02B559C01B443BD500C86809 /* history2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559BF1B443BD500C86809 /* history2@2x.png */; };
-		02B559C21B443F7D00C86809 /* graph.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559C11B443F7D00C86809 /* graph.png */; };
-		02B559C41B443F8900C86809 /* graph@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559C31B443F8900C86809 /* graph@2x.png */; };
-		02B559C61B443FF100C86809 /* about.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559C51B443FF100C86809 /* about.png */; };
-		02B559C81B443FF500C86809 /* about@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B559C71B443FF500C86809 /* about@2x.png */; };
 		02B559CA1B444BAB00C86809 /* TimerSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B559C91B444BAB00C86809 /* TimerSelectionViewController.swift */; };
 		02CA9B601B40AC7900BE9C73 /* ProjectClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CA9B5F1B40AC7900BE9C73 /* ProjectClasses.swift */; };
 		02CA9B621B40ACF600BE9C73 /* CountDownTimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CA9B611B40ACF600BE9C73 /* CountDownTimerViewController.swift */; };
@@ -53,8 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		021D9F521B4B31B5000353A9 /* plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plus.png; sourceTree = "<group>"; };
-		021D9F661B4C168E000353A9 /* xib image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "xib image.png"; sourceTree = "<group>"; };
 		02455C441B3A35A700C4EE9A /* HIITBand.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HIITBand.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02455C481B3A35A700C4EE9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		02455C491B3A35A700C4EE9A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -64,21 +45,6 @@
 		02455C5B1B3A35A700C4EE9A /* HIITBandTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HIITBandTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		02455C601B3A35A700C4EE9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		02455C611B3A35A700C4EE9A /* HIITBandTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HIITBandTests.swift; sourceTree = "<group>"; };
-		0264EB6E1B3F4E0200972059 /* ButtonForModal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonForModal.png; sourceTree = "<group>"; };
-		02B559A31B44308400C86809 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
-		02B559A41B44308400C86809 /* restart_filled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = restart_filled.png; sourceTree = "<group>"; };
-		02B559A51B44308400C86809 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
-		02B559AB1B4430CD00C86809 /* stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stop.png; sourceTree = "<group>"; };
-		02B559AD1B44359A00C86809 /* timer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = timer.png; sourceTree = "<group>"; };
-		02B559AE1B44359A00C86809 /* timer@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "timer@2x.png"; sourceTree = "<group>"; };
-		02B559B91B443AF800C86809 /* stopwatch2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stopwatch2@2x.png"; sourceTree = "<group>"; };
-		02B559BA1B443AF800C86809 /* stopwatch2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stopwatch2.png; sourceTree = "<group>"; };
-		02B559BD1B443BCF00C86809 /* history2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = history2.png; sourceTree = "<group>"; };
-		02B559BF1B443BD500C86809 /* history2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "history2@2x.png"; sourceTree = "<group>"; };
-		02B559C11B443F7D00C86809 /* graph.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = graph.png; sourceTree = "<group>"; };
-		02B559C31B443F8900C86809 /* graph@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "graph@2x.png"; sourceTree = "<group>"; };
-		02B559C51B443FF100C86809 /* about.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = about.png; sourceTree = "<group>"; };
-		02B559C71B443FF500C86809 /* about@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "about@2x.png"; sourceTree = "<group>"; };
 		02B559C91B444BAB00C86809 /* TimerSelectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimerSelectionViewController.swift; sourceTree = "<group>"; };
 		02CA9B5F1B40AC7900BE9C73 /* ProjectClasses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProjectClasses.swift; sourceTree = "<group>"; };
 		02CA9B611B40ACF600BE9C73 /* CountDownTimerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountDownTimerViewController.swift; sourceTree = "<group>"; };
@@ -174,23 +140,6 @@
 		0264EB521B3F117600972059 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				021D9F661B4C168E000353A9 /* xib image.png */,
-				021D9F521B4B31B5000353A9 /* plus.png */,
-				02B559C71B443FF500C86809 /* about@2x.png */,
-				02B559C51B443FF100C86809 /* about.png */,
-				02B559C31B443F8900C86809 /* graph@2x.png */,
-				02B559C11B443F7D00C86809 /* graph.png */,
-				02B559BF1B443BD500C86809 /* history2@2x.png */,
-				02B559BD1B443BCF00C86809 /* history2.png */,
-				02B559B91B443AF800C86809 /* stopwatch2@2x.png */,
-				02B559BA1B443AF800C86809 /* stopwatch2.png */,
-				02B559AD1B44359A00C86809 /* timer.png */,
-				02B559AE1B44359A00C86809 /* timer@2x.png */,
-				02B559AB1B4430CD00C86809 /* stop.png */,
-				02B559A31B44308400C86809 /* pause.png */,
-				02B559A41B44308400C86809 /* restart_filled.png */,
-				02B559A51B44308400C86809 /* play.png */,
-				0264EB6E1B3F4E0200972059 /* ButtonForModal.png */,
 			);
 			name = Images;
 			sourceTree = "<group>";
@@ -318,27 +267,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				02B559A81B44308400C86809 /* restart_filled.png in Resources */,
-				02B559C61B443FF100C86809 /* about.png in Resources */,
-				02B559AC1B4430CD00C86809 /* stop.png in Resources */,
-				02B559C01B443BD500C86809 /* history2@2x.png in Resources */,
-				02B559C41B443F8900C86809 /* graph@2x.png in Resources */,
-				02B559A91B44308400C86809 /* play.png in Resources */,
-				02B559AF1B44359A00C86809 /* timer.png in Resources */,
-				02B559BC1B443AF800C86809 /* stopwatch2.png in Resources */,
-				02B559BE1B443BCF00C86809 /* history2.png in Resources */,
 				02455C511B3A35A700C4EE9A /* Main.storyboard in Resources */,
-				021D9F531B4B31B5000353A9 /* plus.png in Resources */,
-				02B559BB1B443AF800C86809 /* stopwatch2@2x.png in Resources */,
-				02B559A71B44308400C86809 /* pause.png in Resources */,
 				02455C561B3A35A700C4EE9A /* LaunchScreen.xib in Resources */,
-				02B559C21B443F7D00C86809 /* graph.png in Resources */,
 				02455C531B3A35A700C4EE9A /* Images.xcassets in Resources */,
-				02B559C81B443FF500C86809 /* about@2x.png in Resources */,
 				02E750C71B4C50C800100AAA /* TableData.plist in Resources */,
-				021D9F671B4C168E000353A9 /* xib image.png in Resources */,
-				02B559B01B44359A00C86809 /* timer@2x.png in Resources */,
-				0264EB6F1B3F4E0200972059 /* ButtonForModal.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
